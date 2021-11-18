@@ -14,7 +14,6 @@ export function Header({onOpenNewActivyModal, onOpenNewCourseUnitModal}:HeaderPr
     function handleSignOut(){
         signOut();
     }
-
     return(
         <Container>
             <Content>
